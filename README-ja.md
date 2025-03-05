@@ -2,12 +2,12 @@
 
 Fullstack template for dart using monorepo.
 
-```
+```text
 /
 ├ docsite/      # 仕様ドキュメントサイト
 │  ├ docs/      # ドキュメント本体
 │  ├ src/       # サイトのソースコード
-│  ├ docusaurus.config.js
+│  ├ docusaurus.config.ts
 │  ├ package.json
 │  ├ tsconfig.json
 │  └ README.md

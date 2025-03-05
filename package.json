@@ -1,0 +1,9 @@
+{
+  "name": "fullstack-dart-template",
+  "version": "1.0.0",
+  "workspaces": ["docsite", "frontend/app", "frontend/admin", "backend"],
+  "scripts": {
+    "build": "turbo run build",
+    "deploy": "turbo run deploy"
+  }
+}
